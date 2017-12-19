@@ -16,6 +16,7 @@
   },
   "engine": ">= 6.4.0",
   "dependencies": {
+    "@shopify/slate-postcss-custom-properties": ">1.0.0-alpha.0",
     "@shopify/themekit": "0.6.11",
     "autoprefixer": "6.7.7",
     "babel-cli": "6.24.1",
